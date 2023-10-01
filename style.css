@@ -1,0 +1,27 @@
+.des{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container1{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.buttons{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.out{
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(233, 232, 232);
+    padding: 10px;
+    
+}
